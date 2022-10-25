@@ -8,7 +8,7 @@
     "profile": {
       "name": "typicode"
     },
-    "get":{
+    "gets":{
       "airbnb":[
         {
           "id":1,
