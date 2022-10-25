@@ -8,8 +8,7 @@
     "profile": {
       "name": "typicode"
     },
-    "gets":{
-      "airbnb":[
+    "gets":[
         {
           "id":1,
           "data":[
@@ -56,5 +55,4 @@
           ]
         }
       ]
-    }
   }
